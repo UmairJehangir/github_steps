@@ -1,0 +1,37 @@
+step by step guid how to use github.
+
+First create an account on github.com
+
+now create one folder in your pc.
+
+now first install these two software first
+
+1) git 2) vs code
+
+now re-start your pc or laptop.
+
+now open the privious folder which you created before
+
+now press or tap on "quick access bar" and press enter
+
+now type "cmd" in it.
+
+now type in cmd "git clone" and paste your repo url here and press enter.
+
+now "type code ." in it and press enter. here the vs code is open now.
+
+nw press on file icon and create new file and ".txt" in the end of your file name and press enter.
+
+now do you work here and type what ever you want and press contraol s and save your work.
+
+now come back to "cmd" this time open cmd in your repo folder./ same process as privious.and press enter.
+
+now type " git add ." and press enter.
+
+now type " commit -m "anything" " and press enter
+
+now type " git push" and press enter.
+
+now enter your username and password.
+
+done
