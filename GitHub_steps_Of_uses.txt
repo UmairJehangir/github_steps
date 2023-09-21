@@ -1,37 +1,44 @@
+
+
 step by step guid how to use github.
 
-First create an account on github.com
+The very First is to create account on github.com
 
-now create one folder in your pc.
+Now create repository on github.
 
-now first install these two software first
+n
+Now first install these two softwares in your pc.
 
 1) git 2) vs code
 
-now re-start your pc or laptop.
+Now re-start your pc or laptop.
 
-now open the privious folder which you created before
+Now select one folder in your pc or laptop where you are cloning your first repository.
 
-now press or tap on "quick access bar" and press enter
+Now press win + R key to open commond promit. and type D: {if you want to clone your  repo in D } then type mkdir "folder name" {this process is for creating folder in your pc where you save you data.}
 
-now type "cmd" in it.
+Now type cd "folder name" which you just created and press enter. 
 
-now type in cmd "git clone" and paste your repo url here and press enter.
+Now go to your github account and copy repository link and paste infront of "folder name" and press enter.
 
-now "type code ." in it and press enter. here the vs code is open now.
+After cloning type cd "repo folder name" and press enter.
 
-nw press on file icon and create new file and ".txt" in the end of your file name and press enter.
+Now "type code ." in it and press enter. here the vs code is open now.
 
-now do you work here and type what ever you want and press contraol s and save your work.
+Now press on file icon and create new file and ".txt" in the end of your file name and press enter.
 
-now come back to "cmd" this time open cmd in your repo folder./ same process as privious.and press enter.
+Now do you work here and type what ever you want and press contraol + s and save your work.
 
-now type " git add ." and press enter.
+Now come back to cmd.
 
-now type " commit -m "anything" " and press enter
+and type " git add ." and press enter.
 
-now type " git push" and press enter.
+Now type " commit -m "anything" " and press enter
 
-now enter your username and password.
+Now type " git push" and press enter.
 
-done
+Now enter your username and password.
+
+Done!
+
+THANK YOU SO MUSH !
